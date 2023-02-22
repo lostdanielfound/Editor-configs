@@ -1,3 +1,5 @@
+" Guide on setting up config https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
+
 set nocompatible
 filetype on
 filetype plugin on
